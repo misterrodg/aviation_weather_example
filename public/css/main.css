@@ -1,0 +1,56 @@
+/*
+  * This is the CSS specific to this application
+  * Not part of any external libraries (Bootstrap, etc.)
+*/
+  body {
+    background-color:#333333 !important;
+  }
+  h1 {
+    color:#3399FF;
+  }
+  h2 {
+    color:#FF3300;
+  }
+  sup {
+    color:#FF0000;
+  }
+  a {
+    color:#FF3300 !important;
+  }
+  a:hover {
+    color:#FF8566 !important;
+  }
+  .content {
+    background-color:#CCCCCC;
+  }
+  .output {
+    text-align: justify;
+    font-weight: bold;
+  }
+  .validate {
+    color:#FF0000;
+  }
+  .title {
+    line-height: 30px;
+    height: 30px;
+    color:#FF3300;
+    margin-bottom: 10px;
+  }
+  .title h2 {
+    font-size: 20px;
+    line-height: 30px;
+    vertical-align: middle;
+  }
+  .title .icon {
+    font-size:30px;
+  }
+  .title:hover .icon, .title:hover a {
+    color:#FF8566 !important;
+  }
+  .title:hover a {
+    text-decoration: underline;
+  }
+  .footer {
+    color: #CCCCCC;
+    text-align: right;
+  }
